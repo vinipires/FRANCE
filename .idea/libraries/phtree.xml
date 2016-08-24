@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="phtree">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/phtree.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/phtree.jar!/" />
+    </SOURCES>
+  </library>
+</component>
